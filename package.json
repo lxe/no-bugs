@@ -1,0 +1,26 @@
+{
+  "name": "no-bugs",
+  "version": "1.0.0",
+  "description": "A test framework for perfect code.",
+  "main": "no-bugs.js",
+  "scripts": {
+    "test": "node ./no-bugs.js"
+  },
+  "bin": {
+    "no-bugs": "no-bugs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxe/no-bugs.git"
+  },
+  "keywords": [
+    "test",
+    "bugs"
+  ],
+  "author": "Aleksey Smolenchuk <lxe@lxe.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxe/no-bugs/issues"
+  },
+  "homepage": "https://github.com/lxe/no-bugs#readme"
+}
