@@ -1,4 +1,6 @@
 # no-bugs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fno-bugs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fno-bugs?ref=badge_shield)
+
 
 ![](https://img.shields.io/badge/no-bugs-brightgreen.svg) 
 ![](https://img.shields.io/badge/coverage-%F0%9F%92%AF-green.svg)
@@ -30,3 +32,6 @@ Adjust "test" script in your `package.json`:
 ### License
 
 ISC
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Fno-bugs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Fno-bugs?ref=badge_large)
